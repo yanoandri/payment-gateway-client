@@ -1,0 +1,14 @@
+{
+  "name": "xendit-credit-card-test",
+  "version": "1.0.0",
+  "description": "Tester for credit card tokenization",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xendit-node": "^1.4.0"
+  }
+}
